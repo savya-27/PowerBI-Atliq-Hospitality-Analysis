@@ -22,7 +22,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 3. Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
    ## DataModel:
-  ![Data Model](https://github.com/savya-27/PowerBI-Atliq-Hardware-Business-Insights-360/blob/main/Atliq%20Hardware%20Datamodel.png)
+  ![Data Model](https://github.com/savya-27/PowerBI-Atliq-Hospitality-Analysis/blob/master/ATLIQ%20hotels%20data%20model.png)
 
 ## 💡 What this dashboard offers:
 - A 360-degree analysis of revenue, occupancy, cancellations, and ratings for Atliq Grands properties.
