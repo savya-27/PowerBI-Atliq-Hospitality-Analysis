@@ -21,6 +21,9 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 2. Create a dashboard according to the mock-up provided by stakeholders.
 3. Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
+   ## DataModel:
+  ![Data Model](https://github.com/savya-27/PowerBI-Atliq-Hardware-Business-Insights-360/blob/main/Atliq%20Hardware%20Datamodel.png)
+
 ## 💡 What this dashboard offers:
 - A 360-degree analysis of revenue, occupancy, cancellations, and ratings for Atliq Grands properties.
 - Insights on top-performing properties, weekly revenue trends, and customer preferences.
